@@ -1,0 +1,10 @@
+.Hero-resizing{
+    max-width: 80%;
+}
+
+@media (min-width:100)
+{
+    .Hero-resizing{
+        max-width: 80%;
+    }
+}

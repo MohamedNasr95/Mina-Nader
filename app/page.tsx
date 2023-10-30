@@ -3,7 +3,8 @@ import Header from '@/components/layouts/header/header'
 import Footer from '@/components/layouts/footer/footer'
 import Hero from '@/components/body components/hero/Hero'
 import About from '@/components/body components/about/about'
-import upcommingEvents from '@/components/body components/upcommingEvents/upcommingEvents'
+import UpcommingEvents from '@/components/body components/upcommingEvents/upcommingEvents'
+import ContactUs from '@/components/contactUs/ContactUs'
 import '../public/assets/vendor/bootstrap/css/bootstrap.min.css'
 import styles from './page.module.css'
 import '../public/assets/css/style.css'
@@ -26,15 +27,22 @@ import '../public/assets/vendor/swiper/swiper-bundle.min.css'
 // import ''
 
 
-export default function Home() {
-  return (
-    <body>
-      {/* =========================  Header ======================================================================== */}
-      <Header />
-      <Hero />
-      <About />
-      <upcommingEvents />
-      <Footer />
-    </body>
+function Home() {
+  return (     
+      <body>
+        {/* =========================  Header ======================================================================== */}       
+        <header>
+          <Header />
+        </header>
+        <main id="main">
+          <Hero />
+          <About />
+          <UpcommingEvents />
+          <ContactUs />
+          <Footer />
+        </main>
+      </body>
   )
 }
+
+export default Home;
