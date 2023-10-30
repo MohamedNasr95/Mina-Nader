@@ -4,7 +4,7 @@ import Footer from '@/components/layouts/footer/footer'
 import Hero from '@/components/body components/hero/Hero'
 import About from '@/components/body components/about/about'
 import UpcommingEvents from '@/components/body components/upcommingEvents/upcommingEvents'
-import ContactUs from '@/components/body components/contactUs/ContactUs'
+import ContactUs
 import '../public/assets/vendor/bootstrap/css/bootstrap.min.css'
 import styles from './page.module.css'
 import '../public/assets/css/style.css'
