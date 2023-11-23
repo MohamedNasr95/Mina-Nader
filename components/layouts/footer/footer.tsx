@@ -11,10 +11,10 @@ function Footer () {
                   <h3>BizLand<span>.</span></h3>
                   <p>
                     A108 Adam Street 
-                    New York, NY 535022
-                    United States 
-                    <strong>Phone:</strong> +1 5589 55488 55
-                    <strong>Email:</strong> info@example.com
+                    <br></br>New York, NY 535022
+                    <br></br>United States 
+                    <br></br><br></br><strong>Phone:</strong> +20 100 000 0000
+                    <br></br><strong>Email:</strong> mina.nader.aziz@gmail.com
                   </p>
                 </div>
 
@@ -45,8 +45,8 @@ function Footer () {
                   <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
                   <div className="social-links mt-3">
                     <a href="#" className="twitter"><i className="bx bxl-twitter"></i></a>
-                    <a href="#" className="facebook"><i className="bx bxl-facebook"></i></a>
-                    <a href="#" className="instagram"><i className="bx bxl-instagram"></i></a>
+                    <a href="https://web.facebook.com/minanaderofficial" className="facebook"><i className="bx bxl-facebook"></i></a>
+                    <a href="https://instagram.com/minanaderofficial" className="instagram"><i className="bx bxl-instagram"></i></a>
                     <a href="#" className="google-plus"><i className="bx bxl-skype"></i></a>
                     <a href="#" className="linkedin"><i className="bx bxl-linkedin"></i></a>
                   </div>
@@ -62,7 +62,7 @@ function Footer () {
             </div>
             <div className="credits">
               
-              Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+              Designed by <strong>TECH 101</strong>
             </div>
           </div>
         </footer>

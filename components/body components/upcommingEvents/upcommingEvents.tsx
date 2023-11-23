@@ -6,27 +6,27 @@ function UpcommingEvents () {
       <div className="container" data-aos="fade-up">
 
         <div className="section-title">
-          <h2>About</h2>
-          <h3>Find Out More <span>About Us</span></h3>
-          <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+          <h2>Upcomming events</h2>
+          <h3>Be tuned for <span>[Upcomming event]</span></h3>
+          <p>[hook sentence]Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
         </div>
 
         <div className="row">
           <div className="col-lg-6" data-aos="fade-right" data-aos-delay="100">
-            <Image fill src="/public/assets/img/about.jpg" className="img-fluid about_img_size" alt=""/>            
+            <Image fill src="/public/assets/img/about.jpg" className="img-fluid about_img_size" alt="Upcomming event"/>            
           </div>
           <div className="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+            <h3>[discription]Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
             <p className="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+              [place, date & time]Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
               magna aliqua.
             </p>
             <ul>
               <li>
                 <i className="bx bx-store-alt"></i>
                 <div>
-                  <h5>Ullamco laboris nisi ut aliquip consequat</h5>
-                  <p>Magni facilis facilis repellendus cum excepturi quaerat praesentium libre trade</p>
+                  <h5>How to buy tickets</h5>
+                  <p>[dis]Magni facilis facilis repellendus cum excepturi quaerat praesentium libre trade</p>
                 </div>
               </li>
               <li>
